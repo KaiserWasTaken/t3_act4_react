@@ -106,13 +106,9 @@ agregar una tarea o marcarla como completada.
 
 ### d) Enlace del repositorio de GitHub
 
-Pega aquí el enlace del repositorio:
-
-**Pendiente:** `https://github.com/tu-usuario/tu-repositorio`
+https://github.com/KaiserWasTaken/t3_act4_react
 
 ### e) Enlace del proyecto desplegado en GitHub Pages
 
-Pega aquí el enlace de la aplicación publicada:
-
-**Pendiente:** `https://tu-usuario.github.io/tu-repositorio/`
+https://kaiserwastaken.github.io/t3_act4_react/
 
