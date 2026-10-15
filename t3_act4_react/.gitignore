@@ -10,13 +10,34 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+.vite
+coverage
 *.local
 
-# Editor directories and files
+# Variables de entorno
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Cache de Package-manager 
+.npm
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+.pnpm-store
+
+# Directorios de configuración de IDEs
 .vscode/*
 !.vscode/extensions.json
 .idea
+.history
+.fleet
+*.code-workspace
 .DS_Store
+Thumbs.db
 *.suo
 *.ntvs*
 *.njsproj
